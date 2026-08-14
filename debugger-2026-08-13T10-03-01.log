@@ -1,0 +1,12 @@
+﻿[2026-08-13 10:03:01.620] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-13 10:03:01.620] onLocalVersionInfoLoaded: True
+[2026-08-13 10:03:01.621] OnGetLocalVerionFinished: PASS
+[2026-08-13 10:03:01.654] start request http://45.157.16.97:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-13 10:03:31.669] request http://45.157.16.97:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Timeout, 
+[2026-08-13 10:03:31.674] error occur: DownloadFailed
+[2026-08-13 10:03:31.748] [NetworkTexture] Got local image:file:////storage/emulated/0/Android/data/com.studioarm.sigma/files/ImageCache/1.0/-1327039228
+[2026-08-13 10:03:33.721] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-13 10:03:33.814] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-13 10:03:33.815] onLocalVersionInfoLoaded: True
+[2026-08-13 10:03:33.815] OnGetLocalVerionFinished: PASS
+[2026-08-13 10:03:33.845] start request http://45.157.16.97:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT

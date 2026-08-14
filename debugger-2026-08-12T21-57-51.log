@@ -1,0 +1,16 @@
+﻿[2026-08-12 21:57:51.937] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:57:51.938] onLocalVersionInfoLoaded: True
+[2026-08-12 21:57:51.938] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:57:51.970] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:57:52.369] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:57:52.370] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:57:52.371] error occur: DownloadFailed
+[2026-08-12 21:57:52.433] [NetworkTexture] Got local image:file:////storage/emulated/0/Android/data/com.studioarm.sigma/files/ImageCache/1.0/-1327039228
+[2026-08-12 21:57:53.127] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:57:53.228] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:57:53.228] onLocalVersionInfoLoaded: True
+[2026-08-12 21:57:53.228] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:57:53.260] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:57:53.693] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:57:53.694] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:57:53.694] error occur: DownloadFailed

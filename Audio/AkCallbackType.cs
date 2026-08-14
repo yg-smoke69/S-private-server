@@ -1,0 +1,56 @@
+using Il2CppDummyDll;
+
+[Token(Token = "0x2003D65")]
+public enum AkCallbackType
+{
+	[Token(Token = "0x401A187")]
+	AK_EndOfEvent = 1,
+	[Token(Token = "0x401A188")]
+	AK_EndOfDynamicSequenceItem = 2,
+	[Token(Token = "0x401A189")]
+	AK_Marker = 4,
+	[Token(Token = "0x401A18A")]
+	AK_Duration = 8,
+	[Token(Token = "0x401A18B")]
+	AK_SpeakerVolumeMatrix = 16,
+	[Token(Token = "0x401A18C")]
+	AK_Starvation = 32,
+	[Token(Token = "0x401A18D")]
+	AK_MusicPlaylistSelect = 64,
+	[Token(Token = "0x401A18E")]
+	AK_MusicPlayStarted = 128,
+	[Token(Token = "0x401A18F")]
+	AK_MusicSyncBeat = 256,
+	[Token(Token = "0x401A190")]
+	AK_MusicSyncBar = 512,
+	[Token(Token = "0x401A191")]
+	AK_MusicSyncEntry = 1024,
+	[Token(Token = "0x401A192")]
+	AK_MusicSyncExit = 2048,
+	[Token(Token = "0x401A193")]
+	AK_MusicSyncGrid = 4096,
+	[Token(Token = "0x401A194")]
+	AK_MusicSyncUserCue = 8192,
+	[Token(Token = "0x401A195")]
+	AK_MusicSyncPoint = 16384,
+	[Token(Token = "0x401A196")]
+	AK_MusicSyncAll = 32512,
+	[Token(Token = "0x401A197")]
+	AK_MIDIEvent = 65536,
+	[Token(Token = "0x401A198")]
+	AK_CallbackBits = 1048575,
+	[Token(Token = "0x401A199")]
+	AK_EnableGetSourcePlayPosition = 1048576,
+	[Token(Token = "0x401A19A")]
+	AK_EnableGetMusicPlayPosition = 2097152,
+	[Token(Token = "0x401A19B")]
+	AK_EnableGetSourceStreamBuffering = 4194304,
+	[Token(Token = "0x401A19C")]
+	AK_Monitoring = 536870912,
+	[Token(Token = "0x401A19D")]
+	AK_AudioSourceChange = 587202560,
+	[Token(Token = "0x401A19E")]
+	AK_Bank = 1073741824,
+	[Token(Token = "0x401A19F")]
+	AK_AudioInterruption = 570425344
+}

@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Il2CppDummyDll" />
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="XNode" />
+    <Reference Include="ECAUnityPackage" />
+    <Reference Include="UnityEngine.AnimationModule" />
+    <Reference Include="UnityEngine.Timeline" />
+    <Reference Include="Assembly-CSharp-firstpass" />
+    <Reference Include="UnityEngine.UnityWebRequestModule" />
+    <Reference Include="IFix.Core" />
+    <Reference Include="System.Core">
+      <HintPath>../../../../usr/share/dotnet/shared/Microsoft.NETCore.App/6.0.25/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="ECAPackage" />
+    <Reference Include="Unity.Tasks" />
+    <Reference Include="Firebase.App" />
+    <Reference Include="Firebase.Analytics" />
+    <Reference Include="Firebase.Messaging" />
+    <Reference Include="UnityEngine.AssetBundleModule" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="UnityEngine.ParticleSystemModule" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="UnityEngine.AIModule" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.UIModule" />
+    <Reference Include="UnityEngine.VehiclesModule" />
+    <Reference Include="protobuf-net" />
+    <Reference Include="UnityEngine.VideoModule" />
+    <Reference Include="UnityEngine.IMGUIModule" />
+    <Reference Include="UnityEngine.Physics2DModule" />
+    <Reference Include="UnityEngine.TerrainModule" />
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule" />
+    <Reference Include="Mono.Security" />
+  </ItemGroup>
+</Project>

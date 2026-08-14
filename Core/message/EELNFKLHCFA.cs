@@ -1,0 +1,20 @@
+using Il2CppDummyDll;
+
+namespace message;
+
+[Token(Token = "0x2000D75")]
+public enum EELNFKLHCFA : uint
+{
+	[Token(Token = "0x4006FB8")]
+	ESPAWNOBJECTTYPE_VEHICLE,
+	[Token(Token = "0x4006FB9")]
+	ESPAWNOBJECTTYPE_BOT,
+	[Token(Token = "0x4006FBA")]
+	ESPAWNOBJECTTYPE_CHAIR,
+	[Token(Token = "0x4006FBB")]
+	ESPAWNOBJECTTYPE_PIRATE_TREASURE,
+	[Token(Token = "0x4006FBC")]
+	ESPAWNOBJECTTYPE_FOX_TORII,
+	[Token(Token = "0x4006FBD")]
+	ESPAWNOBJECTTYPE_ITEM_PLANT
+}

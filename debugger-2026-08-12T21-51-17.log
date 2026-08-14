@@ -1,0 +1,4 @@
+﻿[2026-08-12 21:51:17.483] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:51:17.484] onLocalVersionInfoLoaded: True
+[2026-08-12 21:51:17.484] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:51:17.503] start request http://10.21.108.177:9000/rct/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT

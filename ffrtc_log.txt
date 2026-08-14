@@ -1,0 +1,486 @@
+thread: 528127058816 2026-08-13 13:17:07.047 INFO     ------------------------------------------------------------------------- [tsk_init_log#tsk_log.c:73]
+thread: 528127058816 2026-08-13 13:17:07.047 INFO     Build info: Sep 26 2022 16:53:48 [tsk_init_log#tsk_log.c:74]
+thread: 528127058816 2026-08-13 13:17:07.047 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528127058816 2026-08-13 13:17:07.047 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528552678272 2026-08-13 13:17:07.047 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528549335936 2026-08-13 13:17:07.047 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528547107712 2026-08-13 13:17:07.048 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528552678272 2026-08-13 13:17:07.048 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528552678272 2026-08-13 13:17:07.048 INFO     ####Report service init domain[], tcp[8001], udp[8001], uuid[e1b604bf-372a-4534-b199-3c6746c220c2]. [ReportServiceInit#SDKValidateTalk.cpp:981]
+thread: 528552678272 2026-08-13 13:17:07.048 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528127058816 2026-08-13 13:17:07.048 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 527840891776 2026-08-13 13:17:07.048 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528552678272 2026-08-13 13:17:07.048 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528552678272 2026-08-13 13:17:07.120 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528552678272 2026-08-13 13:17:07.120 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528552678272 2026-08-13 13:17:07.120 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528552678272 2026-08-13 13:17:07.120 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528552678272 2026-08-13 13:17:07.120 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 527834080128 2026-08-13 13:17:07.120 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528127058816 2026-08-13 13:17:12.447 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528127058816 2026-08-13 13:17:12.447 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528127058816 2026-08-13 13:17:12.447 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528127058816 2026-08-13 13:17:12.447 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528127058816 2026-08-13 13:17:12.448 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528552678272 2026-08-13 13:17:12.448 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:12.448 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:12.449 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528549335936 2026-08-13 13:17:12.449 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528552678272 2026-08-13 13:17:12.449 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:12.449 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:12.449 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528547107712 2026-08-13 13:17:12.449 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528549335936 2026-08-13 13:17:12.450 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:12.450 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528547107712 2026-08-13 13:17:12.450 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:12.451 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528552678272 2026-08-13 13:17:12.451 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 527840891776 2026-08-13 13:17:12.451 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528552678272 2026-08-13 13:17:12.451 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528127058816 2026-08-13 13:17:12.452 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528552678272 2026-08-13 13:17:12.452 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528127058816 2026-08-13 13:17:12.452 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 527840891776 2026-08-13 13:17:12.452 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528552678272 2026-08-13 13:17:12.459 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528552678272 2026-08-13 13:17:12.459 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 527832966016 2026-08-13 13:17:12.459 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528552678272 2026-08-13 13:17:12.459 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528552678272 2026-08-13 13:17:12.459 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528552678272 2026-08-13 13:17:12.459 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 528127058816 2026-08-13 13:17:18.442 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528127058816 2026-08-13 13:17:18.442 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528127058816 2026-08-13 13:17:18.442 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528127058816 2026-08-13 13:17:18.442 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528127058816 2026-08-13 13:17:18.442 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528552678272 2026-08-13 13:17:18.442 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:18.444 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:18.447 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528549335936 2026-08-13 13:17:18.447 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:18.448 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528553792384 2026-08-13 13:17:18.448 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:18.448 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528552727424 2026-08-13 13:17:18.448 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528547107712 2026-08-13 13:17:18.448 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:18.449 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528549335936 2026-08-13 13:17:18.449 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528553792384 2026-08-13 13:17:18.451 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528127058816 2026-08-13 13:17:18.451 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:18.451 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 527840891776 2026-08-13 13:17:18.451 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528553792384 2026-08-13 13:17:18.451 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528127058816 2026-08-13 13:17:18.452 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:18.452 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 527841956736 2026-08-13 13:17:18.453 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528553792384 2026-08-13 13:17:18.456 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528553792384 2026-08-13 13:17:18.456 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528553792384 2026-08-13 13:17:18.456 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528553792384 2026-08-13 13:17:18.456 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528553792384 2026-08-13 13:17:18.456 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 527840891776 2026-08-13 13:17:18.456 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:23.534 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:23.534 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:23.535 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528552727424 2026-08-13 13:17:23.535 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:23.535 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:23.535 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528549335936 2026-08-13 13:17:23.535 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528552727424 2026-08-13 13:17:23.535 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:23.535 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528549335936 2026-08-13 13:17:23.536 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:23.536 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 527841956736 2026-08-13 13:17:23.536 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528553792384 2026-08-13 13:17:23.536 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528127058816 2026-08-13 13:17:23.536 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528553792384 2026-08-13 13:17:23.536 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528127058816 2026-08-13 13:17:23.536 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 527841956736 2026-08-13 13:17:23.536 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528553792384 2026-08-13 13:17:23.536 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 527833015168 2026-08-13 13:17:23.541 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528553792384 2026-08-13 13:17:23.541 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528553792384 2026-08-13 13:17:23.541 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528553792384 2026-08-13 13:17:23.541 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528553792384 2026-08-13 13:17:23.541 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528553792384 2026-08-13 13:17:23.541 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 528127058816 2026-08-13 13:17:28.573 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528127058816 2026-08-13 13:17:28.573 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528127058816 2026-08-13 13:17:28.574 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528127058816 2026-08-13 13:17:28.574 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528553792384 2026-08-13 13:17:28.574 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:28.574 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528127058816 2026-08-13 13:17:28.574 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528552727424 2026-08-13 13:17:28.575 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:28.575 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:28.575 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:28.575 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:28.575 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528549335936 2026-08-13 13:17:28.575 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528552727424 2026-08-13 13:17:28.576 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:28.576 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528549335936 2026-08-13 13:17:28.577 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:28.577 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 527841956736 2026-08-13 13:17:28.577 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528553792384 2026-08-13 13:17:28.577 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528553792384 2026-08-13 13:17:28.577 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528127058816 2026-08-13 13:17:28.578 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528553792384 2026-08-13 13:17:28.578 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528127058816 2026-08-13 13:17:28.578 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 527841956736 2026-08-13 13:17:28.578 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 527834080128 2026-08-13 13:17:28.582 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528553792384 2026-08-13 13:17:28.582 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528553792384 2026-08-13 13:17:28.583 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528553792384 2026-08-13 13:17:28.583 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528553792384 2026-08-13 13:17:28.584 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528553792384 2026-08-13 13:17:28.584 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 528127058816 2026-08-13 13:17:33.610 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528127058816 2026-08-13 13:17:33.611 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528127058816 2026-08-13 13:17:33.611 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528127058816 2026-08-13 13:17:33.611 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528127058816 2026-08-13 13:17:33.611 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:33.611 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:33.612 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:33.613 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:33.613 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528552727424 2026-08-13 13:17:33.613 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528127058816 2026-08-13 13:17:33.613 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:33.614 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528549335936 2026-08-13 13:17:33.614 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528552727424 2026-08-13 13:17:33.614 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528127058816 2026-08-13 13:17:33.614 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528549335936 2026-08-13 13:17:33.615 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528553792384 2026-08-13 13:17:33.615 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528127058816 2026-08-13 13:17:33.615 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528553792384 2026-08-13 13:17:33.615 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 527841956736 2026-08-13 13:17:33.615 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528553792384 2026-08-13 13:17:33.616 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528127058816 2026-08-13 13:17:33.616 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528127058816 2026-08-13 13:17:33.616 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 527841956736 2026-08-13 13:17:33.616 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528553792384 2026-08-13 13:17:33.625 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528553792384 2026-08-13 13:17:33.625 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528553792384 2026-08-13 13:17:33.625 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528553792384 2026-08-13 13:17:33.625 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528553792384 2026-08-13 13:17:33.625 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 527834080128 2026-08-13 13:17:33.625 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 542810062992 2026-08-13 13:20:41.283 INFO     @@== isInRoom [isInRoom#FFVoiceVoiceEngine.cpp:9642]
+thread: 542810062992 2026-08-13 13:20:41.373 INFO     @@== isInRoom [isInRoom#FFVoiceVoiceEngine.cpp:9642]
+thread: 528127058816 2026-08-13 13:21:24.645 INFO     @@ setListenOtherVoice, userId:10000045, isOn:1 [setListenOtherVoice#FFVoiceVoiceEngine.cpp:7480]
+thread: 528127058816 2026-08-13 13:21:24.646 INFO     == setListenOtherVoice failed [setListenOtherVoice#FFVoiceVoiceEngine.cpp:7498]
+thread: 528227742592 2026-08-13 13:32:16.583 INFO     ------------------------------------------------------------------------- [tsk_init_log#tsk_log.c:73]
+thread: 528227742592 2026-08-13 13:32:16.584 INFO     Build info: Sep 26 2022 16:53:48 [tsk_init_log#tsk_log.c:74]
+thread: 528227742592 2026-08-13 13:32:16.584 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528227742592 2026-08-13 13:32:16.584 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 525679899520 2026-08-13 13:32:16.584 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:16.584 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 525678834560 2026-08-13 13:32:16.584 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525680964480 2026-08-13 13:32:16.585 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525680964480 2026-08-13 13:32:16.585 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 525680964480 2026-08-13 13:32:16.585 INFO     ####Report service init domain[], tcp[8001], udp[8001], uuid[e1b604bf-372a-4534-b199-3c6746c220c2]. [ReportServiceInit#SDKValidateTalk.cpp:981]
+thread: 525659927424 2026-08-13 13:32:16.585 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525680964480 2026-08-13 13:32:16.585 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 525680964480 2026-08-13 13:32:16.586 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 525680964480 2026-08-13 13:32:16.645 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 525680964480 2026-08-13 13:32:16.645 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 525680964480 2026-08-13 13:32:16.645 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 525680964480 2026-08-13 13:32:16.645 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 525680964480 2026-08-13 13:32:16.645 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 525556069248 2026-08-13 13:32:16.645 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 525680964480 2026-08-13 13:32:22.207 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:22.207 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 526240220032 2026-08-13 13:32:22.207 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525679899520 2026-08-13 13:32:22.207 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:22.208 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:22.208 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 525678834560 2026-08-13 13:32:22.208 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:22.209 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 525888844672 2026-08-13 13:32:22.208 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:22.210 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 526240220032 2026-08-13 13:32:22.210 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 526240220032 2026-08-13 13:32:22.210 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 525659927424 2026-08-13 13:32:22.210 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 526240220032 2026-08-13 13:32:22.210 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528227742592 2026-08-13 13:32:22.211 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:22.211 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 525868872576 2026-08-13 13:32:22.211 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525871002496 2026-08-13 13:32:22.212 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 526240220032 2026-08-13 13:32:22.220 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 526240220032 2026-08-13 13:32:22.220 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 526240220032 2026-08-13 13:32:22.221 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 526240220032 2026-08-13 13:32:22.221 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 526240220032 2026-08-13 13:32:22.221 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 525867807616 2026-08-13 13:32:22.221 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528227742592 2026-08-13 13:32:28.003 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528227742592 2026-08-13 13:32:28.003 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528227742592 2026-08-13 13:32:28.003 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528227742592 2026-08-13 13:32:28.003 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528227742592 2026-08-13 13:32:28.003 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 526240220032 2026-08-13 13:32:28.003 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:28.003 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:28.004 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 525888844672 2026-08-13 13:32:28.004 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528580055936 2026-08-13 13:32:28.004 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:28.004 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:28.004 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528475206528 2026-08-13 13:32:28.004 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525871002496 2026-08-13 13:32:28.004 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:28.005 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528474141568 2026-08-13 13:32:28.005 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:28.006 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 525868872576 2026-08-13 13:32:28.006 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528580055936 2026-08-13 13:32:28.006 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528580055936 2026-08-13 13:32:28.006 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528227742592 2026-08-13 13:32:28.006 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528580055936 2026-08-13 13:32:28.007 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528227742592 2026-08-13 13:32:28.007 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 526240220032 2026-08-13 13:32:28.007 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528580055936 2026-08-13 13:32:28.012 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 525872067456 2026-08-13 13:32:28.012 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528580055936 2026-08-13 13:32:28.012 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528580055936 2026-08-13 13:32:28.012 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528580055936 2026-08-13 13:32:28.012 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528580055936 2026-08-13 13:32:28.012 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 528227742592 2026-08-13 13:32:33.050 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528227742592 2026-08-13 13:32:33.050 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528227742592 2026-08-13 13:32:33.051 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528227742592 2026-08-13 13:32:33.051 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528227742592 2026-08-13 13:32:33.051 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528580055936 2026-08-13 13:32:33.051 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:33.051 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:33.052 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528580055936 2026-08-13 13:32:33.052 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528475206528 2026-08-13 13:32:33.052 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:33.053 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:33.053 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528474141568 2026-08-13 13:32:33.053 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528475206528 2026-08-13 13:32:33.053 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:33.054 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528474141568 2026-08-13 13:32:33.054 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:33.055 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528580055936 2026-08-13 13:32:33.055 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 526240220032 2026-08-13 13:32:33.055 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528580055936 2026-08-13 13:32:33.055 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528227742592 2026-08-13 13:32:33.055 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528580055936 2026-08-13 13:32:33.056 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528227742592 2026-08-13 13:32:33.056 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 526240220032 2026-08-13 13:32:33.056 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528580055936 2026-08-13 13:32:33.066 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 525872067456 2026-08-13 13:32:33.066 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528580055936 2026-08-13 13:32:33.066 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528580055936 2026-08-13 13:32:33.066 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528580055936 2026-08-13 13:32:33.066 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528580055936 2026-08-13 13:32:33.066 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 528227742592 2026-08-13 13:32:38.129 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528227742592 2026-08-13 13:32:38.129 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528227742592 2026-08-13 13:32:38.129 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528227742592 2026-08-13 13:32:38.130 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528227742592 2026-08-13 13:32:38.130 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528580055936 2026-08-13 13:32:38.130 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:38.131 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:38.131 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528475206528 2026-08-13 13:32:38.131 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:38.132 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:38.132 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528474141568 2026-08-13 13:32:38.132 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528580055936 2026-08-13 13:32:38.131 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:38.133 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528474141568 2026-08-13 13:32:38.133 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528475206528 2026-08-13 13:32:38.133 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:38.134 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 526240220032 2026-08-13 13:32:38.134 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528580055936 2026-08-13 13:32:38.134 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528580055936 2026-08-13 13:32:38.134 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528227742592 2026-08-13 13:32:38.134 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528580055936 2026-08-13 13:32:38.134 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 528227742592 2026-08-13 13:32:38.134 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 526240220032 2026-08-13 13:32:38.134 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 525862945664 2026-08-13 13:32:38.145 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]
+thread: 528580055936 2026-08-13 13:32:38.145 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528580055936 2026-08-13 13:32:38.145 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528580055936 2026-08-13 13:32:38.145 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528580055936 2026-08-13 13:32:38.145 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528580055936 2026-08-13 13:32:38.145 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 528227742592 2026-08-13 13:32:43.297 INFO     $$ doSetServerRegion regionId:10001, extRegionName:, bAppend:0 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2539]
+thread: 528227742592 2026-08-13 13:32:43.297 INFO     Default region:10001 [doSetServerRegion#FFVoiceVoiceEngine.cpp:2597]
+thread: 528227742592 2026-08-13 13:32:43.297 INFO     Brand:vivo
+        Model:V2351
+        CPU:arm64-v8a
+        IMEI:
+        UUID:e1b604bf-372a-4534-b199-3c6746c220c2
+        sysver:16
+        package:com.studioarm.sigma
+        sdkver:trunk-2.6.5.5086
+        sdknum:562123742
+        ffmpeg-support:0
+        commonLibVer:1.2.0.13
+        CPUChip:mt6835
+        ServerArea=0 [initialize#NgnEngine.cpp:97]
+thread: 528227742592 2026-08-13 13:32:43.298 INFO     @@ init: YOUME728F5695F9F6CEAA8F19E87D7515D7D0F2AEC9F7 [init#FFVoiceVoiceEngine.cpp:5303]
+thread: 528227742592 2026-08-13 13:32:43.298 INFO     Start joining MainMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528580055936 2026-08-13 13:32:43.303 INFO     Leave MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:43.303 INFO     Joining MainMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:43.304 INFO     Start joining CbMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528580055936 2026-08-13 13:32:43.307 INFO     Enter MainMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528475206528 2026-08-13 13:32:43.307 INFO     Leave CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:43.307 INFO     Joining CbMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:43.308 INFO     Start joining WorkerMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 528474141568 2026-08-13 13:32:43.308 INFO     Leave WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:43.308 INFO     Joining WorkerMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528475206528 2026-08-13 13:32:43.308 INFO     Enter CbMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528474141568 2026-08-13 13:32:43.308 INFO     Enter WorkerMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528227742592 2026-08-13 13:32:43.309 INFO     Start joining LoopbackMsg thread [Stop#FFVoiceVoiceEngine.cpp:1270]
+thread: 526240220032 2026-08-13 13:32:43.309 INFO     Leave LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1327]
+thread: 528227742592 2026-08-13 13:32:43.309 INFO     Joining LoopbackMsg thread OK [Stop#FFVoiceVoiceEngine.cpp:1272]
+thread: 528227742592 2026-08-13 13:32:43.309 INFO     == init [init#FFVoiceVoiceEngine.cpp:5454]
+thread: 528580055936 2026-08-13 13:32:43.309 INFO     $$ doInit [doInit#FFVoiceVoiceEngine.cpp:2392]
+thread: 528580055936 2026-08-13 13:32:43.310 INFO     ## serverRegionId:0, extServerRegionName: [ServerLoginIn#SDKValidateTalk.cpp:138]
+thread: 528580055936 2026-08-13 13:32:43.311 INFO     #### Parsing SDKValidate server: [getValidateIPList#SDKValidateTalk.cpp:892]
+thread: 526240220032 2026-08-13 13:32:43.314 INFO     Enter LoopbackMsg thread [ThreadFunc#FFVoiceVoiceEngine.cpp:1301]
+thread: 528580055936 2026-08-13 13:32:43.336 INFO     SDK Validate exit [ServerLoginIn#SDKValidateTalk.cpp:280]
+thread: 528580055936 2026-08-13 13:32:43.337 ERROR    SDK validate failed [doInit#FFVoiceVoiceEngine.cpp:2419]
+thread: 528580055936 2026-08-13 13:32:43.337 INFO     -- mState:InitFailed [setState#FFVoiceVoiceEngine.cpp:2108]
+thread: 528580055936 2026-08-13 13:32:43.337 INFO     Call back for FFRTC_EVENT_INIT_FAILED [doInit#FFVoiceVoiceEngine.cpp:2498]
+thread: 528580055936 2026-08-13 13:32:43.337 INFO     == doInit failed [doInit#FFVoiceVoiceEngine.cpp:2501]
+thread: 525858747264 2026-08-13 13:32:43.342 INFO     SDK Validate Report:-105 [InitReportProc#SDKValidateTalk.cpp:312]

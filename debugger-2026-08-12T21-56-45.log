@@ -1,0 +1,56 @@
+﻿[2026-08-12 21:56:45.701] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:56:45.701] onLocalVersionInfoLoaded: True
+[2026-08-12 21:56:45.702] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:56:45.733] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:56:46.167] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:56:46.168] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:56:46.168] error occur: DownloadFailed
+[2026-08-12 21:56:46.744] [NetworkTexture] Downloaded new image: url is https://freefiremobile-a.akamaihd.net/common/OB23/version/Patch_Bg.png
+[2026-08-12 21:56:47.928] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:56:48.017] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:56:48.018] onLocalVersionInfoLoaded: True
+[2026-08-12 21:56:48.018] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:56:48.047] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:56:48.448] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:56:48.448] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:56:48.449] error occur: DownloadFailed
+[2026-08-12 21:56:49.022] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:56:49.116] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:56:49.116] onLocalVersionInfoLoaded: True
+[2026-08-12 21:56:49.116] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:56:49.149] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:56:49.579] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:56:49.580] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:56:49.580] error occur: DownloadFailed
+[2026-08-12 21:56:49.849] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:56:49.948] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:56:49.949] onLocalVersionInfoLoaded: True
+[2026-08-12 21:56:49.949] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:56:49.980] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:56:50.381] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:56:50.381] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:56:50.382] error occur: DownloadFailed
+[2026-08-12 21:56:50.483] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:56:50.581] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:56:50.581] onLocalVersionInfoLoaded: True
+[2026-08-12 21:56:50.582] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:56:50.614] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:56:51.013] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:56:51.013] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:56:51.013] error occur: DownloadFailed
+[2026-08-12 21:57:27.805] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:57:27.874] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:57:27.874] onLocalVersionInfoLoaded: True
+[2026-08-12 21:57:27.875] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:57:27.902] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:57:28.336] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:57:28.336] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:57:28.336] error occur: DownloadFailed
+[2026-08-12 21:57:28.941] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/versioninfo
+[2026-08-12 21:57:29.036] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-12 21:57:29.036] onLocalVersionInfoLoaded: True
+[2026-08-12 21:57:29.036] OnGetLocalVerionFinished: PASS
+[2026-08-12 21:57:29.069] start request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-12 21:57:29.470] http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error in www: Unknown Error,Exception
+[2026-08-12 21:57:29.470] request http://38.250.168.43:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: Exception, 
+[2026-08-12 21:57:29.470] error occur: DownloadFailed

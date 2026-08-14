@@ -1,0 +1,76 @@
+using Il2CppDummyDll;
+
+namespace GarenaMSDKUnity.GMSDK;
+
+[Token(Token = "0x2000013")]
+public enum GGErrorCode
+{
+	[Token(Token = "0x40000C6")]
+	SUCCESS = 0,
+	[Token(Token = "0x40000C7")]
+	APP_NOT_INSTALLED = 2000,
+	[Token(Token = "0x40000C8")]
+	UNSUPPORTED_API = 2001,
+	[Token(Token = "0x40000C9")]
+	USER_CANCELLED = 2002,
+	[Token(Token = "0x40000CA")]
+	USER_DENIED_REQUEST = 2003,
+	[Token(Token = "0x40000CB")]
+	LOGIN_FAILED = 2004,
+	[Token(Token = "0x40000CC")]
+	REFRESH_TOKEN_SUCCESS = 2005,
+	[Token(Token = "0x40000CD")]
+	REFRESH_TOKEN_FAILED = 2006,
+	[Token(Token = "0x40000CE")]
+	ACCESS_TOKEN_EXPIRED = 2007,
+	[Token(Token = "0x40000CF")]
+	NETWORK_EXCEPTION = 2008,
+	[Token(Token = "0x40000D0")]
+	ACCESS_TOKEN_EXCHANGE_FAILED = 2009,
+	[Token(Token = "0x40000D1")]
+	NETWORK_CONNECTION_EXCEPTION = 2010,
+	[Token(Token = "0x40000D2")]
+	CANNOT_GET_RESULT = 2011,
+	[Token(Token = "0x40000D3")]
+	ERROR_IN_PARAMS = 2012,
+	[Token(Token = "0x40000D4")]
+	CANNOT_START_ACTIVITY = 2013,
+	[Token(Token = "0x40000D5")]
+	REQUEST_ID_MISMATCH = 2014,
+	[Token(Token = "0x40000D6")]
+	ACCESS_TOKEN_INSPECTION_FAILED = 2015,
+	[Token(Token = "0x40000D7")]
+	SESSION_NOT_INITIALIZED = 2016,
+	[Token(Token = "0x40000D8")]
+	BATCH_SIZE_EXCEEDED = 2102,
+	[Token(Token = "0x40000D9")]
+	BIND_FAILED = 2201,
+	[Token(Token = "0x40000DA")]
+	GUEST_ACCOUNT_INVALID = 2202,
+	[Token(Token = "0x40000DB")]
+	REDEEM_NOT_AVAILABLE = 2304,
+	[Token(Token = "0x40000DC")]
+	ALREADY_REDEEMED = 2305,
+	[Token(Token = "0x40000DD")]
+	REDEEM_LIMIT_REACHED = 2306,
+	[Token(Token = "0x40000DE")]
+	SERVER_ERROR_TOKEN_SESSION = 2307,
+	[Token(Token = "0x40000DF")]
+	NETWORK_RESPONSE_PARSE_FAIL = 2308,
+	[Token(Token = "0x40000E0")]
+	NETWORK_REQUEST_TIME_OUT = 2309,
+	[Token(Token = "0x40000E1")]
+	GOP_ERROR_SERVER = 2300,
+	[Token(Token = "0x40000E2")]
+	GOP_ERROR_TOKEN = 2302,
+	[Token(Token = "0x40000E3")]
+	GOP_ERROR_SCOPE = 2303,
+	[Token(Token = "0x40000E4")]
+	ERROR = 2999,
+	[Token(Token = "0x40000E5")]
+	UNKNOWN_ERROR = -1,
+	[Token(Token = "0x40000E6")]
+	ACCESS_TOKEN_INVALID_GRANT = 2017,
+	[Token(Token = "0x40000E7")]
+	ERROR_USER_BANNED = 2018
+}

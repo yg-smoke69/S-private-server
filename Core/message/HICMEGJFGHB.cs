@@ -1,0 +1,42 @@
+using Il2CppDummyDll;
+
+namespace message;
+
+[Token(Token = "0x2000DEB")]
+public enum HICMEGJFGHB : uint
+{
+	[Token(Token = "0x40072F0")]
+	EITEM_TYPE_MEDKIT,
+	[Token(Token = "0x40072F1")]
+	EITEM_TYPE_GRENADE,
+	[Token(Token = "0x40072F2")]
+	EITEM_TYPE_GRENADE_FLASH,
+	[Token(Token = "0x40072F3")]
+	EITEM_TYPE_GRENADE_SMOKINGBOMB,
+	[Token(Token = "0x40072F4")]
+	EITEM_TYPE_LOADOUT_CAREPACKAGE,
+	[Token(Token = "0x40072F5")]
+	EITEM_TYPE_LOADOUT_CAMPFIRE,
+	[Token(Token = "0x40072F6")]
+	EITEM_TYPE_LOADOUT_TREASUREMAP,
+	[Token(Token = "0x40072F7")]
+	EITEM_TYPE_BUILDING,
+	[Token(Token = "0x40072F8")]
+	EITEM_TYPE_LANDMINE,
+	[Token(Token = "0x40072F9")]
+	EITEM_TYPE_BOUNTY_SCANNER,
+	[Token(Token = "0x40072FA")]
+	EITEM_TYPE_LOADOUT_BOUNTYCONTRACT,
+	[Token(Token = "0x40072FB")]
+	EITEM_TYPE_MINISENTRY,
+	[Token(Token = "0x40072FC")]
+	EITEM_TYPE_PAINTSPRAYER,
+	[Token(Token = "0x40072FD")]
+	EITEM_TYPE_DUMMY,
+	[Token(Token = "0x40072FE")]
+	EITEM_TYPE_BOMBMODE_PLIERS,
+	[Token(Token = "0x40072FF")]
+	EITEM_TYPE_FIREWORKS,
+	[Token(Token = "0x4007300")]
+	EITEM_TYPE_ALL
+}

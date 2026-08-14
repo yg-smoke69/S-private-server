@@ -1,0 +1,24 @@
+using Il2CppDummyDll;
+
+namespace message;
+
+[Token(Token = "0x2000DE2")]
+public enum ALAHNGGPDIE : uint
+{
+	[Token(Token = "0x400728C")]
+	ESTARTFIRESTATE_NONE,
+	[Token(Token = "0x400728D")]
+	ESTARTFIRESTATE_READY,
+	[Token(Token = "0x400728E")]
+	ESTARTFIRESTATE_FIRE,
+	[Token(Token = "0x400728F")]
+	ESTARTFIRESTATE_CHARGE,
+	[Token(Token = "0x4007290")]
+	ESTARTFIRESTATE_CANCEL,
+	[Token(Token = "0x4007291")]
+	ESTARTFIRESTATE_WARMUP,
+	[Token(Token = "0x4007292")]
+	ESTARTFIRESTATE_COMBINED_DOUBLE_FIRE,
+	[Token(Token = "0x4007293")]
+	ESTARTFIRESTATE_COMBINED_LEFT_FIRE
+}

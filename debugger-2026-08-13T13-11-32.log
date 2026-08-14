@@ -1,0 +1,102 @@
+﻿[2026-08-13 13:11:32.949] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-13 13:11:32.949] onLocalVersionInfoLoaded: True
+[2026-08-13 13:11:32.950] OnGetLocalVerionFinished: PASS
+[2026-08-13 13:11:32.980] start request http://45.157.16.97:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT
+[2026-08-13 13:11:33.751] request http://45.157.16.97:3000/live/ver.php?version=1.0.113&lang=en&device=android&channel=android&appstore=googleplay&region=DEFAULT, error code: OK, 
+[2026-08-13 13:11:33.754] @GameConfig.SetOverrideGOPUrlFromVersion: http://45.157.16.97:3000;http://45.157.16.97:3000
+[2026-08-13 13:11:33.754] @GameConfig.SetOverrideGOPUrlFromVersion: OverrideGOPRootUrl http://45.157.16.97:3000
+[2026-08-13 13:11:33.754] @GameConfig.SetOverrideGOPUrlFromVersion: OverrideGOPNewRootUrl http://45.157.16.97:3000
+[2026-08-13 13:11:33.754] coutry_code:BR, client_ip:42.104.226.27
+[2026-08-13 13:11:33.754] opt ver:optionallocres:26|optionalclothres:282|optionalfullscreencgres:19|optionalludores:19|optionalmap1res:194|optionalmap2res:36|optionalmap4res:19|optionalmapres:17|optionalpetres:17|optionalrushb:38|optionalrushingpetsres:61|optionalvoiceres:147|optionalwerewolves:48
+[2026-08-13 13:11:33.865] GetTotalMemory  5628, check with 2867.2
+[2026-08-13 13:11:33.866] onRemoveVersionInfoLoaded: True
+[2026-08-13 13:11:33.866] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/fileinfo
+[2026-08-13 13:11:33.903] [ResHotUpdater] LoadFinish ResHotUpdate lastError OKdownloadType CompulsoryRes
+[2026-08-13 13:11:33.903] onLocalFileInfoLoaded_Pass: True
+[2026-08-13 13:11:33.904] onResHotUpdateStarted: PASS
+[2026-08-13 13:11:33.905] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/gameassetbundles.OqqZowf8EzlSFwg1aTk2Su06xMg~3D
+[2026-08-13 13:11:33.905] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/wwise_audiores.pJldzS~2FrnrHXK8v5qkgxPoY2f~2F0~3D
+[2026-08-13 13:11:33.905] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/avatar/assetindexer.gXFNsJUZW0qJ1VgfsbG3mBfrzBs~3D
+[2026-08-13 13:11:33.906] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/codepatch/assembly-csharp-patch.Ao0YEbSnq6p6~2Baw5LOLFoTjIpps~3D
+[2026-08-13 13:11:33.908] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/clothesrecipes.AuA5w5Iecb9zVDAaGP7I9OCeLKk~3D
+[2026-08-13 13:11:33.908] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/clothesrecipesbytes.osMfUA2c~2F~2FlsoAQDvzAnXFi0m34~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/clothesslotoverlays.k~2BCabgOiRSwwdc6QcQoDNn6aCR0~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/gamevar.i9XvqrhzWRofeE0o75RUA4ye6xw~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/itemhotfix.s36H39WPlMjIuZFtBvb5t8Jkepg~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/mailcontent.3~2BDWtbOXs2HQ4L~2BQ2xQD5qzplcA~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/config/resconf.uGscdALlgoXuv0rFzSOIY2ec2~2Fg~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/hd/config/resconf.iPi9Vkq2CGjXPOyb8ljQK6b1Deg~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/hd/config/resconf_wwise.7lTGJZvSxQe3JOZrXLsuKU0MOsk~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/localization/locabconf.MRAGcPmpX8Np2nObdUPaS0IOXDQ~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/localization/lochotfix.Tft5kz6uXs0mGpwVp1rs9zdK79w~3D
+[2026-08-13 13:11:33.909] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/main/gameentry.DThlAEo4toa5mIOZ6oqFgmz3tvk~3D
+[2026-08-13 13:11:33.910] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/ui/uilobbygroupnew.e6cXTU2bC~2F0j7wCtmQYxYUGEv2k~3D
+[2026-08-13 13:11:33.910] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/ui/uiprofilefightdataitem.f1HlQcDi2cfqaecBY6T~2Bp7kaJOg~3D
+[2026-08-13 13:11:33.910] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/ui/atlas/hotfix/ui_hotfix_icon_42.H3que6fgVGxuBlaOH9~2BWGhLdCU8~3D
+[2026-08-13 13:11:33.910] WWWLoad jar:file:///data/app/~~FlVXXwgr9z0pv1KuwgYY1w==/com.studioarm.sigma-Ny0RLvlvFQDSVu1Aldg6nw==/base.apk!/assets/android/gameassetbundles/ui/setting/uioperationsetting.nJQ2zyfk5eiOs6LGNFSMXR9tUbc~3D
+[2026-08-13 13:11:34.001] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/gameassetbundles.OqqZowf8EzlSFwg1aTk2Su06xMg~3D
+[2026-08-13 13:11:34.002] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/gameassetbundles.OqqZowf8EzlSFwg1aTk2Su06xMg~3D
+[2026-08-13 13:11:34.066] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/avatar/assetindexer.gXFNsJUZW0qJ1VgfsbG3mBfrzBs~3D
+[2026-08-13 13:11:34.067] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/avatar/assetindexer.gXFNsJUZW0qJ1VgfsbG3mBfrzBs~3D
+[2026-08-13 13:11:34.100] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/codepatch/assembly-csharp-patch.Ao0YEbSnq6p6~2Baw5LOLFoTjIpps~3D
+[2026-08-13 13:11:34.100] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/codepatch/assembly-csharp-patch.Ao0YEbSnq6p6~2Baw5LOLFoTjIpps~3D
+[2026-08-13 13:11:34.131] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipes.AuA5w5Iecb9zVDAaGP7I9OCeLKk~3D
+[2026-08-13 13:11:34.132] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipes.AuA5w5Iecb9zVDAaGP7I9OCeLKk~3D
+[2026-08-13 13:11:34.164] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipesbytes.osMfUA2c~2F~2FlsoAQDvzAnXFi0m34~3D
+[2026-08-13 13:11:34.164] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipesbytes.osMfUA2c~2F~2FlsoAQDvzAnXFi0m34~3D
+[2026-08-13 13:11:34.198] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesslotoverlays.k~2BCabgOiRSwwdc6QcQoDNn6aCR0~3D
+[2026-08-13 13:11:34.199] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesslotoverlays.k~2BCabgOiRSwwdc6QcQoDNn6aCR0~3D
+[2026-08-13 13:11:34.233] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/gamevar.i9XvqrhzWRofeE0o75RUA4ye6xw~3D
+[2026-08-13 13:11:34.233] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/gamevar.i9XvqrhzWRofeE0o75RUA4ye6xw~3D
+[2026-08-13 13:11:34.265] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/itemhotfix.s36H39WPlMjIuZFtBvb5t8Jkepg~3D
+[2026-08-13 13:11:34.265] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/itemhotfix.s36H39WPlMjIuZFtBvb5t8Jkepg~3D
+[2026-08-13 13:11:34.299] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/mailcontent.3~2BDWtbOXs2HQ4L~2BQ2xQD5qzplcA~3D
+[2026-08-13 13:11:34.299] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/mailcontent.3~2BDWtbOXs2HQ4L~2BQ2xQD5qzplcA~3D
+[2026-08-13 13:11:34.337] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/resconf.uGscdALlgoXuv0rFzSOIY2ec2~2Fg~3D
+[2026-08-13 13:11:34.337] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/resconf.uGscdALlgoXuv0rFzSOIY2ec2~2Fg~3D
+[2026-08-13 13:11:34.367] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf.iPi9Vkq2CGjXPOyb8ljQK6b1Deg~3D
+[2026-08-13 13:11:34.367] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf.iPi9Vkq2CGjXPOyb8ljQK6b1Deg~3D
+[2026-08-13 13:11:34.400] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf_wwise.7lTGJZvSxQe3JOZrXLsuKU0MOsk~3D
+[2026-08-13 13:11:34.401] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf_wwise.7lTGJZvSxQe3JOZrXLsuKU0MOsk~3D
+[2026-08-13 13:11:34.431] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/localization/locabconf.MRAGcPmpX8Np2nObdUPaS0IOXDQ~3D
+[2026-08-13 13:11:34.432] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/localization/locabconf.MRAGcPmpX8Np2nObdUPaS0IOXDQ~3D
+[2026-08-13 13:11:34.565] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/wwise_audiores.pJldzS~2FrnrHXK8v5qkgxPoY2f~2F0~3D
+[2026-08-13 13:11:34.565] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/wwise_audiores.pJldzS~2FrnrHXK8v5qkgxPoY2f~2F0~3D
+[2026-08-13 13:11:34.571] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/localization/lochotfix.Tft5kz6uXs0mGpwVp1rs9zdK79w~3D
+[2026-08-13 13:11:34.571] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/localization/lochotfix.Tft5kz6uXs0mGpwVp1rs9zdK79w~3D
+[2026-08-13 13:11:34.575] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/main/gameentry.DThlAEo4toa5mIOZ6oqFgmz3tvk~3D
+[2026-08-13 13:11:34.575] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/main/gameentry.DThlAEo4toa5mIOZ6oqFgmz3tvk~3D
+[2026-08-13 13:11:34.599] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/uilobbygroupnew.e6cXTU2bC~2F0j7wCtmQYxYUGEv2k~3D
+[2026-08-13 13:11:34.599] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/uilobbygroupnew.e6cXTU2bC~2F0j7wCtmQYxYUGEv2k~3D
+[2026-08-13 13:11:34.634] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/uiprofilefightdataitem.f1HlQcDi2cfqaecBY6T~2Bp7kaJOg~3D
+[2026-08-13 13:11:34.634] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/uiprofilefightdataitem.f1HlQcDi2cfqaecBY6T~2Bp7kaJOg~3D
+[2026-08-13 13:11:34.667] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/atlas/hotfix/ui_hotfix_icon_42.H3que6fgVGxuBlaOH9~2BWGhLdCU8~3D
+[2026-08-13 13:11:34.667] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/atlas/hotfix/ui_hotfix_icon_42.H3que6fgVGxuBlaOH9~2BWGhLdCU8~3D
+[2026-08-13 13:11:34.705] save file successfully /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/setting/uioperationsetting.nJQ2zyfk5eiOs6LGNFSMXR9tUbc~3D
+[2026-08-13 13:11:34.705] UnZip /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/setting/uioperationsetting.nJQ2zyfk5eiOs6LGNFSMXR9tUbc~3D
+[2026-08-13 13:11:34.731] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/gameassetbundles.OqqZowf8EzlSFwg1aTk2Su06xMg~3D unzip progress: 5997, 5997
+[2026-08-13 13:11:34.769] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/avatar/assetindexer.gXFNsJUZW0qJ1VgfsbG3mBfrzBs~3D unzip progress: 36797, 36797
+[2026-08-13 13:11:34.798] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/codepatch/assembly-csharp-patch.Ao0YEbSnq6p6~2Baw5LOLFoTjIpps~3D unzip progress: 4457, 4457
+[2026-08-13 13:11:34.800] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/avatar/assetindexer.gXFNsJUZW0qJ1VgfsbG3mBfrzBs~3D, LLW1g631prKQ5LybUeXY7zwuv9I=
+[2026-08-13 13:11:34.831] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipes.AuA5w5Iecb9zVDAaGP7I9OCeLKk~3D unzip progress: 4425, 4425
+[2026-08-13 13:11:34.865] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipesbytes.osMfUA2c~2F~2FlsoAQDvzAnXFi0m34~3D unzip progress: 7125, 7125
+[2026-08-13 13:11:34.867] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipes.AuA5w5Iecb9zVDAaGP7I9OCeLKk~3D, QvgorcRLdGSqyAM7hBxUvg3Twk0=
+[2026-08-13 13:11:34.899] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesslotoverlays.k~2BCabgOiRSwwdc6QcQoDNn6aCR0~3D unzip progress: 6761, 6761
+[2026-08-13 13:11:34.903] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesrecipesbytes.osMfUA2c~2F~2FlsoAQDvzAnXFi0m34~3D, WFBQumD9GmzuEq4exSqdX1Gh/sA=
+[2026-08-13 13:11:34.932] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/gamevar.i9XvqrhzWRofeE0o75RUA4ye6xw~3D unzip progress: 48865, 48865
+[2026-08-13 13:11:34.933] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/clothesslotoverlays.k~2BCabgOiRSwwdc6QcQoDNn6aCR0~3D, eZIfQ9zXR1vZ+TnQ/ewpc921iCg=
+[2026-08-13 13:11:34.964] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/itemhotfix.s36H39WPlMjIuZFtBvb5t8Jkepg~3D unzip progress: 5701, 5701
+[2026-08-13 13:11:34.999] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/mailcontent.3~2BDWtbOXs2HQ4L~2BQ2xQD5qzplcA~3D unzip progress: 7781, 7781
+[2026-08-13 13:11:35.076] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf.iPi9Vkq2CGjXPOyb8ljQK6b1Deg~3D unzip progress: 50713, 50713
+[2026-08-13 13:11:35.118] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf.iPi9Vkq2CGjXPOyb8ljQK6b1Deg~3D, rrAFGWmXohrNxu0C9O8YDC0q57s=
+[2026-08-13 13:11:35.149] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/localization/locabconf.MRAGcPmpX8Np2nObdUPaS0IOXDQ~3D unzip progress: 5773, 5773
+[2026-08-13 13:11:35.172] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf_wwise.7lTGJZvSxQe3JOZrXLsuKU0MOsk~3D unzip progress: 226618, 226618
+[2026-08-13 13:11:35.222] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/hd/config/resconf_wwise.7lTGJZvSxQe3JOZrXLsuKU0MOsk~3D, sjdHFzw0oE6Y9QlONGKOyPtyCRY=
+[2026-08-13 13:11:35.249] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/localization/lochotfix.Tft5kz6uXs0mGpwVp1rs9zdK79w~3D unzip progress: 118866, 118866
+[2026-08-13 13:11:35.250] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/main/gameentry.DThlAEo4toa5mIOZ6oqFgmz3tvk~3D unzip progress: 12937, 12937
+[2026-08-13 13:11:35.365] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/resconf.uGscdALlgoXuv0rFzSOIY2ec2~2Fg~3D unzip progress: 1088854, 1088854
+[2026-08-13 13:11:35.386] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/atlas/hotfix/ui_hotfix_icon_42.H3que6fgVGxuBlaOH9~2BWGhLdCU8~3D unzip progress: 6177, 6177
+[2026-08-13 13:11:35.419] file hash result /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/config/resconf.uGscdALlgoXuv0rFzSOIY2ec2~2Fg~3D, WiQe66wK/oYviMkG4F5YN3KSWWo=
+[2026-08-13 13:11:35.617] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/setting/uioperationsetting.nJQ2zyfk5eiOs6LGNFSMXR9tUbc~3D unzip progress: 448871, 448871
+[2026-08-13 13:11:35.640] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/uilobbygroupnew.e6cXTU2bC~2F0j7wCtmQYxYUGEv2k~3D unzip progress: 1191776, 1191776
+[2026-08-13 13:11:35.804] File /storage/emulated/0/Android/data/com.studioarm.sigma/files/contentcache/Compulsory/android/gameassetbundles/ui/uiprofilefightdataitem.f1HlQcDi2cfqaecBY6T~2Bp7kaJOg~3D unzip progress: 1473519, 1473519
